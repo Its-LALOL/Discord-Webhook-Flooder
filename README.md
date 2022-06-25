@@ -12,7 +12,7 @@ A program for flooding messages using webhooks
 # ⚙️ Instructions ⚙️
 1) Downoload This
 2) Open main.py
-3) Enter webhooks
+3) Add webhook(s)
 4) Enter username
 5) Enter message text
 6) Press start

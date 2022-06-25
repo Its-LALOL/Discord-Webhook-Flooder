@@ -4,8 +4,6 @@ A program for flooding messages using webhooks
 # 🌟 Features 🌟
 - Very fast
 - Graphical interface
-- You can delete webhooks without permissions
-- Automatically removes invalid webhooks
 
 ![](https://github.com/Its-LALOL/Discord-Webhook-Flooder/raw/main/screenshot.png)
 

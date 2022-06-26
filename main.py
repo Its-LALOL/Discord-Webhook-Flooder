@@ -1,4 +1,4 @@
-﻿print('Loading...')
+print('Loading...')
 
 from requests import post
 from tkinter import Tk, Label, Entry, Button, INSERT, messagebox
@@ -80,6 +80,6 @@ text_input=Entry(width=30, fg='black', bg='grey')
 text_input.place(x=70, y=63)
 Button(text='Paste',fg='black', bg='grey', command=paste_text).place(x=215, y=83)
 Button(text='Start Flooding', fg='red', bg='grey', command=start).place(x=0, y=103)
-Button(text='Created by LALOL', fg='yellow', bg='grey', command=creator).place(x=67, y=103)
+Button(text='Created by LALOL', fg='yellow', bg='grey', command=creator).place(x=84, y=103)
 system('cls||clear')
 window.mainloop()

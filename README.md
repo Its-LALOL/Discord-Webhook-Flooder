@@ -17,5 +17,4 @@ A program for flooding messages using webhooks
 7) Enjoy flooding :)
 
 # ⚠️ Disclaimer ⚠️
-I AM NOT RESPONSIBLE FOR WHAT YOU DO WITH THIS PROGRAM!!!
-EVERYTHING YOU DO - DO AT YOUR OWN RISK
+I am not responsible for what you do. The program is for educational purposes only!

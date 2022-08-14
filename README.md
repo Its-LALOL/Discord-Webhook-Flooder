@@ -1,5 +1,5 @@
 # Discord-Webhook-Flooder
-A program for flooding messages using webhooks
+A program for flooding messages using webhooks [GUI]
 
 # 🌟 Features 🌟
 - Very fast
